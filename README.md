@@ -42,7 +42,7 @@
 
 ```
 ## OUTPUT
-
+![alt text](<Screenshot (60)-2.png>)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
