@@ -19,8 +19,28 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+    <head>
+        ice cream varieties 
+        </head>
+        <body>
+            <ul>
+                <li>strawberry</li>
+                <li>vanilla </li>
+                <li>mango</li>
+                    <li>jackcfruit</li>    
+            </ul>
+            <ol>
+                <li>pista</li>
+                <li>chocolate</li>
+                <li>lichi</li>
+                <li>butterscotch</li>
+            </ol>
+        </body>
+        </html>
 
-
+```
 ## OUTPUT
 
 
